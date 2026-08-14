@@ -1,0 +1,501 @@
+OrderID,Product,Category,Quantity,Price,OrderDate
+1,Galaxy Buds Pro,Accessories,74,32.85,1/01/2023
+2,Galaxy Watch 4,Wearables,17,90.15,2/01/2023
+3,Galaxy Watch 4,Wearables,84,6.24,3/01/2023
+4,Galaxy Tab S7,Tablets,88,13.12,4/01/2023
+5,Galaxy Buds Pro,Accessories,69,24.75,5/01/2023
+6,Galaxy S21,Smartphones,34,7.52,6/01/2023
+7,Galaxy Note 20,Smartphones,6,22.24,7/01/2023
+8,Galaxy Watch 4,Wearables,53,60.39,8/01/2023
+9,Galaxy Note 20,Smartphones,,45.04,9/01/2023
+10,Galaxy S21,Smartphones,77,89.8,10/01/2023
+11,Galaxy Note 20,Smartphones,43,82.66,11/01/2023
+12,Galaxy S21,Smartphones,75,37.47,12/01/2023
+13,Galaxy Tab S7,Tablets,23,29.65,13/01/2023
+14,Galaxy Watch 4,Wearables,55,41.07,14/01/2023
+15,Galaxy S21,Smartphones,80,61.08,15/01/2023
+16,Galaxy Note 20,Smartphones,95,30.47,16/01/2023
+17,Galaxy Watch 4,Wearables,75,,17/01/2023
+18,Galaxy Tab S7,Tablets,16,43.89,18/01/2023
+19,Galaxy Watch 4,Wearables,8,57.44,19/01/2023
+20,Galaxy S21,Smartphones,4,46.43,20/01/2023
+21,Galaxy Tab S7,Tablets,4,32.97,21/01/2023
+22,Galaxy Note 20,Smartphones,56,95.1,22/01/2023
+23,Galaxy Tab S7,Tablets,25,77.54,23/01/2023
+24,Galaxy Tab S7,Tablets,67,18.31,24/01/2023
+25,Galaxy Buds Pro,Accessories,96,87.5,25/01/2023
+26,Galaxy Tab S7,Tablets,67,51.31,26/01/2023
+27,Galaxy Tab S7,Tablets,,89.98,27/01/2023
+28,Galaxy Watch 4,Wearables,93,80.99,28/01/2023
+29,Galaxy Note 20,Smartphones,32,45.4,29/01/2023
+30,Galaxy Watch 4,Wearables,50,7.13,30/01/2023
+31,Galaxy Watch 4,Wearables,61,30.52,31/01/2023
+32,Galaxy S21,Smartphones,51,56.46,1/02/2023
+33,Galaxy Watch 4,Wearables,19,65.18,2/02/2023
+34,Galaxy Buds Pro,Accessories,21,29.5,3/02/2023
+35,Galaxy Buds Pro,Accessories,5,18.24,4/02/2023
+36,Galaxy S21,Smartphones,82,84.32,5/02/2023
+37,Galaxy Note 20,Smartphones,92,98.52,6/02/2023
+38,Galaxy Note 20,Smartphones,42,54.94,7/02/2023
+39,Galaxy Watch 4,Wearables,61,21.31,8/02/2023
+40,Galaxy Watch 4,Wearables,22,30.87,9/02/2023
+41,Galaxy Watch 4,Wearables,21,6.75,10/02/2023
+42,Galaxy Note 20,Smartphones,70,91.86,11/02/2023
+43,Galaxy Tab S7,Tablets,1,16.19,12/02/2023
+44,Galaxy Buds Pro,Accessories,5,59.77,13/02/2023
+45,Galaxy Tab S7,Tablets,12,31.04,14/02/2023
+46,Galaxy Tab S7,Tablets,90,57.65,15/02/2023
+47,Galaxy Note 20,Smartphones,46,66.88,16/02/2023
+48,Galaxy Tab S7,Tablets,34,83.83,17/02/2023
+49,Galaxy S21,Smartphones,49,24.61,18/02/2023
+50,Galaxy Watch 4,Wearables,78,6.04,19/02/2023
+51,Galaxy S21,Smartphones,90,18,20/02/2023
+52,Galaxy Buds Pro,Accessories,45,90.5,21/02/2023
+53,Galaxy Watch 4,Wearables,27,88.02,22/02/2023
+54,Galaxy Tab S7,Tablets,73,61.75,23/02/2023
+55,Galaxy Buds Pro,Accessories,26,62.05,24/02/2023
+56,Galaxy Watch 4,Wearables,47,,25/02/2023
+57,Galaxy Tab S7,Tablets,86,,26/02/2023
+58,Galaxy S21,Smartphones,56,91.87,27/02/2023
+59,Galaxy Watch 4,Wearables,94,44.78,28/02/2023
+60,Galaxy Tab S7,Tablets,63,41.4,1/03/2023
+61,Galaxy S21,Smartphones,48,54.3,2/03/2023
+62,Galaxy Buds Pro,Accessories,61,9.46,3/03/2023
+63,Galaxy Buds Pro,Accessories,81,20.8,4/03/2023
+64,Galaxy Buds Pro,Accessories,26,75.11,5/03/2023
+65,Galaxy Buds Pro,Accessories,36,12.87,6/03/2023
+66,Galaxy Note 20,Smartphones,1,62.3,7/03/2023
+67,Galaxy Watch 4,Wearables,8,28.31,8/03/2023
+68,Galaxy Watch 4,Wearables,99,41.98,9/03/2023
+69,Galaxy Note 20,Smartphones,52,32.43,10/03/2023
+70,Galaxy Tab S7,Tablets,79,38.79,11/03/2023
+71,Galaxy Tab S7,Tablets,47,73.31,12/03/2023
+72,Galaxy Buds Pro,Accessories,56,33.23,13/03/2023
+73,Galaxy S21,Smartphones,86,58.81,14/03/2023
+74,Galaxy Tab S7,Tablets,14,50.22,15/03/2023
+75,Galaxy S21,Smartphones,90,68.05,16/03/2023
+76,Galaxy Watch 4,Wearables,28,94,17/03/2023
+77,Galaxy S21,Smartphones,87,74.59,18/03/2023
+78,Galaxy Watch 4,Wearables,78,25.42,19/03/2023
+79,Galaxy Note 20,Smartphones,88,7.96,20/03/2023
+80,Galaxy Note 20,Smartphones,2,29.92,21/03/2023
+81,Galaxy Buds Pro,Accessories,26,61.53,22/03/2023
+82,Galaxy Tab S7,Tablets,14,9.89,23/03/2023
+83,Galaxy Buds Pro,Accessories,59,52.15,24/03/2023
+84,Galaxy Watch 4,Wearables,56,61.7,25/03/2023
+85,Galaxy Buds Pro,Accessories,7,36.75,26/03/2023
+86,Galaxy S21,Smartphones,3,78.24,27/03/2023
+87,Galaxy Watch 4,Wearables,23,15.13,28/03/2023
+88,Galaxy Note 20,Smartphones,18,12.14,29/03/2023
+89,Galaxy Tab S7,Tablets,38,74.18,30/03/2023
+90,Galaxy Watch 4,Wearables,99,52.07,31/03/2023
+91,Galaxy Watch 4,Wearables,15,70.4,1/04/2023
+92,Galaxy S21,Smartphones,64,46.31,2/04/2023
+93,Galaxy Tab S7,Tablets,89,28.41,3/04/2023
+94,Galaxy Note 20,Smartphones,28,,4/04/2023
+95,Galaxy Watch 4,Wearables,74,80.94,5/04/2023
+96,Galaxy Watch 4,Wearables,,71,6/04/2023
+97,Galaxy S21,Smartphones,57,30.85,7/04/2023
+98,Galaxy Buds Pro,Accessories,17,61.07,8/04/2023
+99,Galaxy Note 20,Smartphones,,39.29,9/04/2023
+100,Galaxy Tab S7,Tablets,90,13.7,10/04/2023
+101,Galaxy Watch 4,Wearables,44,92.14,11/04/2023
+102,Galaxy Watch 4,Wearables,25,18,12/04/2023
+103,Galaxy Note 20,Smartphones,17,,13/04/2023
+104,Galaxy Buds Pro,Accessories,13,47.37,14/04/2023
+105,Galaxy Watch 4,Wearables,84,22.59,15/04/2023
+106,Galaxy Note 20,Smartphones,25,56.48,16/04/2023
+107,Galaxy S21,Smartphones,68,87.93,17/04/2023
+108,Galaxy Buds Pro,Accessories,10,74.56,18/04/2023
+109,Galaxy Tab S7,Tablets,67,81.62,19/04/2023
+110,Galaxy Watch 4,Wearables,18,67.58,20/04/2023
+111,Galaxy Note 20,Smartphones,86,70.77,21/04/2023
+112,Galaxy S21,Smartphones,34,85.67,22/04/2023
+113,Galaxy Tab S7,Tablets,8,,23/04/2023
+114,Galaxy Note 20,Smartphones,40,51.5,24/04/2023
+115,Galaxy Note 20,Smartphones,83,26.01,25/04/2023
+116,Galaxy Tab S7,Tablets,42,98.83,26/04/2023
+117,Galaxy S21,Smartphones,41,94.69,27/04/2023
+118,Galaxy S21,Smartphones,6,8.75,28/04/2023
+119,Galaxy Buds Pro,Accessories,52,72.03,29/04/2023
+120,Galaxy Watch 4,Wearables,26,92.9,30/04/2023
+121,Galaxy Tab S7,Tablets,64,22.15,1/05/2023
+122,Galaxy Tab S7,Tablets,98,58.95,2/05/2023
+123,Galaxy Tab S7,Tablets,59,91.97,3/05/2023
+124,Galaxy S21,Smartphones,56,8.22,4/05/2023
+125,Galaxy Watch 4,Wearables,59,71.25,5/05/2023
+126,Galaxy Buds Pro,Accessories,70,33.25,6/05/2023
+127,Galaxy Note 20,Smartphones,33,92.82,7/05/2023
+128,Galaxy Note 20,Smartphones,53,97.25,8/05/2023
+129,Galaxy Tab S7,Tablets,22,94.71,9/05/2023
+130,Galaxy Watch 4,Wearables,21,50.05,10/05/2023
+131,Galaxy S21,Smartphones,70,86.89,11/05/2023
+132,Galaxy Watch 4,Wearables,70,85.23,12/05/2023
+133,Galaxy Watch 4,Wearables,4,35.31,13/05/2023
+134,Galaxy S21,Smartphones,94,83.75,14/05/2023
+135,Galaxy Tab S7,Tablets,75,8.52,15/05/2023
+136,Galaxy Watch 4,Wearables,62,61.65,16/05/2023
+137,Galaxy Note 20,Smartphones,62,26.85,17/05/2023
+138,Galaxy S21,Smartphones,94,16.45,18/05/2023
+139,Galaxy Buds Pro,Accessories,95,12.31,19/05/2023
+140,Galaxy Tab S7,Tablets,24,71.15,20/05/2023
+141,Galaxy S21,Smartphones,55,37.29,21/05/2023
+142,Galaxy Buds Pro,Accessories,9,73.85,22/05/2023
+143,Galaxy Buds Pro,Accessories,3,11.21,23/05/2023
+144,Galaxy Watch 4,Wearables,31,34.95,24/05/2023
+145,Galaxy Watch 4,Wearables,40,56.25,25/05/2023
+146,Galaxy Watch 4,Wearables,36,80.12,26/05/2023
+147,Galaxy S21,Smartphones,24,35.28,27/05/2023
+148,Galaxy S21,Smartphones,95,64.46,28/05/2023
+149,Galaxy Tab S7,Tablets,6,89.17,29/05/2023
+150,Galaxy Watch 4,Wearables,66,63.51,30/05/2023
+151,Galaxy Buds Pro,Accessories,84,27.13,31/05/2023
+152,Galaxy Note 20,Smartphones,92,7.32,1/06/2023
+153,Galaxy Tab S7,Tablets,75,87.66,2/06/2023
+154,Galaxy S21,Smartphones,4,7.02,3/06/2023
+155,Galaxy Tab S7,Tablets,79,88.1,4/06/2023
+156,Galaxy Tab S7,Tablets,6,55.25,5/06/2023
+157,Galaxy Tab S7,Tablets,,94.21,6/06/2023
+158,Galaxy Tab S7,Tablets,51,80.88,7/06/2023
+159,Galaxy Note 20,Smartphones,62,99.8,8/06/2023
+160,Galaxy Watch 4,Wearables,57,38.32,9/06/2023
+161,Galaxy Buds Pro,Accessories,66,77.88,10/06/2023
+162,Galaxy Tab S7,Tablets,79,43.18,11/06/2023
+163,Galaxy Tab S7,Tablets,75,50.59,12/06/2023
+164,Galaxy Tab S7,Tablets,8,64.61,13/06/2023
+165,Galaxy Watch 4,Wearables,,88,14/06/2023
+166,Galaxy S21,Smartphones,51,98.49,15/06/2023
+167,Galaxy S21,Smartphones,45,77.99,16/06/2023
+168,Galaxy Note 20,Smartphones,44,44.69,17/06/2023
+169,Galaxy S21,Smartphones,5,45.03,18/06/2023
+170,Galaxy Tab S7,Tablets,70,75.07,19/06/2023
+171,Galaxy Tab S7,Tablets,26,27.68,20/06/2023
+172,Galaxy Tab S7,Tablets,68,15.5,21/06/2023
+173,Galaxy Note 20,Smartphones,19,38.69,22/06/2023
+174,Galaxy Tab S7,Tablets,84,32.29,23/06/2023
+175,Galaxy S21,Smartphones,97,33.15,24/06/2023
+176,Galaxy Watch 4,Wearables,20,27.19,25/06/2023
+177,Galaxy Watch 4,Wearables,12,9,26/06/2023
+178,Galaxy Buds Pro,Accessories,47,6.7,27/06/2023
+179,Galaxy S21,Smartphones,1,98.83,28/06/2023
+180,Galaxy Tab S7,Tablets,90,45.64,29/06/2023
+181,Galaxy Watch 4,Wearables,14,41.51,30/06/2023
+182,Galaxy S21,Smartphones,64,69.57,1/07/2023
+183,Galaxy Watch 4,Wearables,38,25.73,2/07/2023
+184,Galaxy Tab S7,Tablets,37,95.25,3/07/2023
+185,Galaxy Watch 4,Wearables,11,79.7,4/07/2023
+186,Galaxy Buds Pro,Accessories,77,13.49,5/07/2023
+187,Galaxy Buds Pro,Accessories,3,44.67,6/07/2023
+188,Galaxy Watch 4,Wearables,33,88.52,7/07/2023
+189,Galaxy S21,Smartphones,6,94.75,8/07/2023
+190,Galaxy S21,Smartphones,50,49.4,9/07/2023
+191,Galaxy S21,Smartphones,10,63.27,10/07/2023
+192,Galaxy Watch 4,Wearables,5,20.87,11/07/2023
+193,Galaxy S21,Smartphones,23,99.16,12/07/2023
+194,Galaxy Tab S7,Tablets,10,27.01,13/07/2023
+195,Galaxy Buds Pro,Accessories,44,94.56,14/07/2023
+196,Galaxy Tab S7,Tablets,2,66.72,15/07/2023
+197,Galaxy S21,Smartphones,13,62.73,16/07/2023
+198,Galaxy Tab S7,Tablets,40,53.71,17/07/2023
+199,Galaxy S21,Smartphones,2,26.91,18/07/2023
+200,Galaxy Watch 4,Wearables,84,21.77,19/07/2023
+201,Galaxy Tab S7,Tablets,65,25.95,20/07/2023
+202,Galaxy Watch 4,Wearables,63,22.71,21/07/2023
+203,Galaxy Watch 4,Wearables,73,79.06,22/07/2023
+204,Galaxy Note 20,Smartphones,17,38.26,23/07/2023
+205,Galaxy S21,Smartphones,9,10.5,24/07/2023
+206,Galaxy Buds Pro,Accessories,75,97.06,25/07/2023
+207,Galaxy S21,Smartphones,,88.96,26/07/2023
+208,Galaxy Buds Pro,Accessories,24,93.14,27/07/2023
+209,Galaxy S21,Smartphones,38,99.52,28/07/2023
+210,Galaxy Watch 4,Wearables,35,,29/07/2023
+211,Galaxy Tab S7,Tablets,94,42.64,30/07/2023
+212,Galaxy Tab S7,Tablets,95,,31/07/2023
+213,Galaxy Note 20,Smartphones,49,71.12,1/08/2023
+214,Galaxy Buds Pro,Accessories,69,19.62,2/08/2023
+215,Galaxy Buds Pro,Accessories,62,82.5,3/08/2023
+216,Galaxy Buds Pro,Accessories,60,26.32,4/08/2023
+217,Galaxy Watch 4,Wearables,50,26.26,5/08/2023
+218,Galaxy Buds Pro,Accessories,78,56.01,6/08/2023
+219,Galaxy Tab S7,Tablets,75,61.33,7/08/2023
+220,Galaxy Watch 4,Wearables,9,60.11,8/08/2023
+221,Galaxy S21,Smartphones,34,13.69,9/08/2023
+222,Galaxy Buds Pro,Accessories,76,88.36,10/08/2023
+223,Galaxy Buds Pro,Accessories,99,30.23,11/08/2023
+224,Galaxy S21,Smartphones,35,17.3,12/08/2023
+225,Galaxy Buds Pro,Accessories,1,89.43,13/08/2023
+226,Galaxy S21,Smartphones,40,95.79,14/08/2023
+227,Galaxy Watch 4,Wearables,64,86.9,15/08/2023
+228,Galaxy Tab S7,Tablets,22,81.9,16/08/2023
+229,Galaxy S21,Smartphones,60,67.25,17/08/2023
+230,Galaxy Note 20,Smartphones,64,57.33,18/08/2023
+231,Galaxy S21,Smartphones,93,,19/08/2023
+232,Galaxy Buds Pro,Accessories,72,43.8,20/08/2023
+233,Galaxy Watch 4,Wearables,11,40.41,21/08/2023
+234,Galaxy Watch 4,Wearables,14,29.68,22/08/2023
+235,Galaxy S21,Smartphones,60,73.72,23/08/2023
+236,Galaxy Tab S7,Tablets,30,52.11,24/08/2023
+237,Galaxy Note 20,Smartphones,35,12.7,25/08/2023
+238,Galaxy Watch 4,Wearables,85,25.92,26/08/2023
+239,Galaxy Buds Pro,Accessories,,69.91,27/08/2023
+240,Galaxy Buds Pro,Accessories,5,12.23,28/08/2023
+241,Galaxy Tab S7,Tablets,83,85.86,29/08/2023
+242,Galaxy Watch 4,Wearables,78,52.04,30/08/2023
+243,Galaxy S21,Smartphones,26,50.66,31/08/2023
+244,Galaxy Buds Pro,Accessories,62,61.28,1/09/2023
+245,Galaxy Tab S7,Tablets,4,83.34,2/09/2023
+246,Galaxy Watch 4,Wearables,89,38.04,3/09/2023
+247,Galaxy Watch 4,Wearables,42,,4/09/2023
+248,Galaxy Watch 4,Wearables,89,58.74,5/09/2023
+249,Galaxy Watch 4,Wearables,18,30.37,6/09/2023
+250,Galaxy Watch 4,Wearables,40,88.47,7/09/2023
+251,Galaxy Buds Pro,Accessories,72,80.76,8/09/2023
+252,Galaxy Tab S7,Tablets,39,67.55,9/09/2023
+253,Galaxy Watch 4,Wearables,14,85.81,10/09/2023
+254,Galaxy Note 20,Smartphones,32,87.39,11/09/2023
+255,Galaxy Note 20,Smartphones,51,72.29,12/09/2023
+256,Galaxy Tab S7,Tablets,38,84.52,13/09/2023
+257,Galaxy S21,Smartphones,97,71.26,14/09/2023
+258,Galaxy S21,Smartphones,23,69.61,15/09/2023
+259,Galaxy S21,Smartphones,63,63.77,16/09/2023
+260,Galaxy Note 20,Smartphones,15,76.51,17/09/2023
+261,Galaxy S21,Smartphones,97,,18/09/2023
+262,Galaxy Buds Pro,Accessories,25,88.68,19/09/2023
+263,Galaxy Watch 4,Wearables,,87.83,20/09/2023
+264,Galaxy Note 20,Smartphones,97,7.78,21/09/2023
+265,Galaxy Tab S7,Tablets,,83.45,22/09/2023
+266,Galaxy Tab S7,Tablets,78,17.24,23/09/2023
+267,Galaxy Watch 4,Wearables,53,36.84,24/09/2023
+268,Galaxy Note 20,Smartphones,51,75.63,25/09/2023
+269,Galaxy S21,Smartphones,39,20.27,26/09/2023
+270,Galaxy S21,Smartphones,51,82.71,27/09/2023
+271,Galaxy Buds Pro,Accessories,70,84.05,28/09/2023
+272,Galaxy Buds Pro,Accessories,6,53.21,29/09/2023
+273,Galaxy S21,Smartphones,67,5.61,30/09/2023
+274,Galaxy Tab S7,Tablets,,32.27,1/10/2023
+275,Galaxy Tab S7,Tablets,51,63.61,2/10/2023
+276,Galaxy Buds Pro,Accessories,72,98.21,3/10/2023
+277,Galaxy Watch 4,Wearables,42,65.02,4/10/2023
+278,Galaxy S21,Smartphones,64,29.68,5/10/2023
+279,Galaxy Buds Pro,Accessories,15,65.23,6/10/2023
+280,Galaxy Buds Pro,Accessories,29,56.3,7/10/2023
+281,Galaxy S21,Smartphones,33,79.09,8/10/2023
+282,Galaxy S21,Smartphones,94,15.16,9/10/2023
+283,Galaxy Tab S7,Tablets,27,77.3,10/10/2023
+284,Galaxy Watch 4,Wearables,36,56.42,11/10/2023
+285,Galaxy Watch 4,Wearables,29,96.48,12/10/2023
+286,Galaxy S21,Smartphones,38,37.48,13/10/2023
+287,Galaxy Note 20,Smartphones,,65.1,14/10/2023
+288,Galaxy Buds Pro,Accessories,97,93.54,15/10/2023
+289,Galaxy Buds Pro,Accessories,27,14.74,16/10/2023
+290,Galaxy S21,Smartphones,55,94.04,17/10/2023
+291,Galaxy Note 20,Smartphones,33,70.35,18/10/2023
+292,Galaxy Tab S7,Tablets,68,11.44,19/10/2023
+293,Galaxy S21,Smartphones,86,33.59,20/10/2023
+294,Galaxy S21,Smartphones,66,72.28,21/10/2023
+295,Galaxy Buds Pro,Accessories,10,11.4,22/10/2023
+296,Galaxy S21,Smartphones,5,60.31,23/10/2023
+297,Galaxy S21,Smartphones,74,,24/10/2023
+298,Galaxy S21,Smartphones,97,63.99,25/10/2023
+299,Galaxy Buds Pro,Accessories,,9.35,26/10/2023
+300,Galaxy Tab S7,Tablets,13,87.8,27/10/2023
+301,Galaxy Tab S7,Tablets,31,97.48,28/10/2023
+302,Galaxy S21,Smartphones,47,97.04,29/10/2023
+303,Galaxy Buds Pro,Accessories,88,76.22,30/10/2023
+304,Galaxy Tab S7,Tablets,52,17.36,31/10/2023
+305,Galaxy Tab S7,Tablets,56,77.04,1/11/2023
+306,Galaxy Tab S7,Tablets,15,7.34,2/11/2023
+307,Galaxy Buds Pro,Accessories,29,7.1,3/11/2023
+308,Galaxy Buds Pro,Accessories,8,35.74,4/11/2023
+309,Galaxy S21,Smartphones,5,51.42,5/11/2023
+310,Galaxy Watch 4,Wearables,29,78.19,6/11/2023
+311,Galaxy Tab S7,Tablets,,69.91,7/11/2023
+312,Galaxy Watch 4,Wearables,68,47.36,8/11/2023
+313,Galaxy Buds Pro,Accessories,,30.99,9/11/2023
+314,Galaxy Buds Pro,Accessories,45,99.73,10/11/2023
+315,Galaxy Buds Pro,Accessories,2,45.49,11/11/2023
+316,Galaxy Watch 4,Wearables,27,47.88,12/11/2023
+317,Galaxy Buds Pro,Accessories,95,20.54,13/11/2023
+318,Galaxy S21,Smartphones,,,14/11/2023
+319,Galaxy Buds Pro,Accessories,36,70.9,15/11/2023
+320,Galaxy Note 20,Smartphones,26,25.97,16/11/2023
+321,Galaxy Watch 4,Wearables,43,12.83,17/11/2023
+322,Galaxy Note 20,Smartphones,27,69.65,18/11/2023
+323,Galaxy Buds Pro,Accessories,69,,19/11/2023
+324,Galaxy S21,Smartphones,20,30.96,20/11/2023
+325,Galaxy Tab S7,Tablets,11,95.33,21/11/2023
+326,Galaxy Buds Pro,Accessories,74,19.35,22/11/2023
+327,Galaxy S21,Smartphones,38,46.07,23/11/2023
+328,Galaxy Watch 4,Wearables,6,94.64,24/11/2023
+329,Galaxy Note 20,Smartphones,72,44.87,25/11/2023
+330,Galaxy Note 20,Smartphones,23,65.66,26/11/2023
+331,Galaxy Note 20,Smartphones,47,42.77,27/11/2023
+332,Galaxy Watch 4,Wearables,90,31.05,28/11/2023
+333,Galaxy S21,Smartphones,46,98.48,29/11/2023
+334,Galaxy Watch 4,Wearables,12,43.89,30/11/2023
+335,Galaxy Note 20,Smartphones,90,89.94,1/12/2023
+336,Galaxy Buds Pro,Accessories,13,26.85,2/12/2023
+337,Galaxy Tab S7,Tablets,62,25.24,3/12/2023
+338,Galaxy Watch 4,Wearables,82,7.96,4/12/2023
+339,Galaxy Watch 4,Wearables,89,66.91,5/12/2023
+340,Galaxy S21,Smartphones,,40.01,6/12/2023
+341,Galaxy S21,Smartphones,60,87.11,7/12/2023
+342,Galaxy Watch 4,Wearables,43,49.95,8/12/2023
+343,Galaxy Note 20,Smartphones,76,96.98,9/12/2023
+344,Galaxy Tab S7,Tablets,68,22.62,10/12/2023
+345,Galaxy S21,Smartphones,5,87.52,11/12/2023
+346,Galaxy Note 20,Smartphones,37,78.78,12/12/2023
+347,Galaxy Buds Pro,Accessories,72,78.24,13/12/2023
+348,Galaxy S21,Smartphones,92,85.25,14/12/2023
+349,Galaxy Note 20,Smartphones,31,77.3,15/12/2023
+350,Galaxy Note 20,Smartphones,9,,16/12/2023
+351,Galaxy Tab S7,Tablets,51,17.47,17/12/2023
+352,Galaxy Tab S7,Tablets,29,8.09,18/12/2023
+353,Galaxy Buds Pro,Accessories,78,,19/12/2023
+354,Galaxy Note 20,Smartphones,40,63.58,20/12/2023
+355,Galaxy Note 20,Smartphones,41,80.67,21/12/2023
+356,Galaxy Tab S7,Tablets,86,50.74,22/12/2023
+357,Galaxy S21,Smartphones,,16.14,23/12/2023
+358,Galaxy S21,Smartphones,23,16.89,24/12/2023
+359,Galaxy Watch 4,Wearables,1,70.13,25/12/2023
+360,Galaxy Tab S7,Tablets,46,45.88,26/12/2023
+361,Galaxy Watch 4,Wearables,21,24.05,27/12/2023
+362,Galaxy Tab S7,Tablets,90,51.7,28/12/2023
+363,Galaxy Buds Pro,Accessories,36,,29/12/2023
+364,Galaxy Note 20,Smartphones,54,,30/12/2023
+365,Galaxy Buds Pro,Accessories,87,30.55,31/12/2023
+366,Galaxy Tab S7,Tablets,57,80.77,1/01/2024
+367,Galaxy Note 20,Smartphones,1,34.48,2/01/2024
+368,Galaxy S21,Smartphones,63,48.25,3/01/2024
+369,Galaxy S21,Smartphones,54,6.1,4/01/2024
+370,Galaxy Watch 4,Wearables,55,11.88,5/01/2024
+371,Galaxy Tab S7,Tablets,40,42.29,6/01/2024
+372,Galaxy Tab S7,Tablets,15,50.59,7/01/2024
+373,Galaxy S21,Smartphones,21,62,8/01/2024
+374,Galaxy Buds Pro,Accessories,47,32.71,9/01/2024
+375,Galaxy Note 20,Smartphones,,71.02,10/01/2024
+376,Galaxy Buds Pro,Accessories,53,86.71,11/01/2024
+377,Galaxy Buds Pro,Accessories,9,79.09,12/01/2024
+378,Galaxy S21,Smartphones,74,8.76,13/01/2024
+379,Galaxy S21,Smartphones,52,50.65,14/01/2024
+380,Galaxy S21,Smartphones,57,14.97,15/01/2024
+381,Galaxy Watch 4,Wearables,26,27.99,16/01/2024
+382,Galaxy Buds Pro,Accessories,41,98.73,17/01/2024
+383,Galaxy Tab S7,Tablets,35,18.54,18/01/2024
+384,Galaxy Note 20,Smartphones,63,52.39,19/01/2024
+385,Galaxy Watch 4,Wearables,25,63.72,20/01/2024
+386,Galaxy Tab S7,Tablets,90,71.73,21/01/2024
+387,Galaxy Buds Pro,Accessories,75,58.17,22/01/2024
+388,Galaxy S21,Smartphones,38,5.93,23/01/2024
+389,Galaxy Buds Pro,Accessories,2,36.01,24/01/2024
+390,Galaxy Note 20,Smartphones,7,54.18,25/01/2024
+391,Galaxy Watch 4,Wearables,82,13.35,26/01/2024
+392,Galaxy Watch 4,Wearables,91,38.31,27/01/2024
+393,Galaxy Note 20,Smartphones,34,8.15,28/01/2024
+394,Galaxy Tab S7,Tablets,91,12.46,29/01/2024
+395,Galaxy Tab S7,Tablets,17,,30/01/2024
+396,Galaxy Watch 4,Wearables,43,17.61,31/01/2024
+397,Galaxy Watch 4,Wearables,59,58.92,1/02/2024
+398,Galaxy S21,Smartphones,51,70.5,2/02/2024
+399,Galaxy Tab S7,Tablets,54,81.06,3/02/2024
+400,Galaxy Note 20,Smartphones,24,24.01,4/02/2024
+401,Galaxy Tab S7,Tablets,25,20.91,5/02/2024
+402,Galaxy S21,Smartphones,71,,6/02/2024
+403,Galaxy Watch 4,Wearables,52,65.46,7/02/2024
+404,Galaxy Watch 4,Wearables,70,72.12,8/02/2024
+405,Galaxy S21,Smartphones,88,8,9/02/2024
+406,Galaxy Note 20,Smartphones,33,93.94,10/02/2024
+407,Galaxy Watch 4,Wearables,,9.94,11/02/2024
+408,Galaxy Buds Pro,Accessories,29,56.42,12/02/2024
+409,Galaxy Watch 4,Wearables,63,72.36,13/02/2024
+410,Galaxy Buds Pro,Accessories,22,,14/02/2024
+411,Galaxy S21,Smartphones,26,72.84,15/02/2024
+412,Galaxy S21,Smartphones,28,81.16,16/02/2024
+413,Galaxy Watch 4,Wearables,85,37.25,17/02/2024
+414,Galaxy Tab S7,Tablets,,82.41,18/02/2024
+415,Galaxy Buds Pro,Accessories,71,12.61,19/02/2024
+416,Galaxy Note 20,Smartphones,81,90.01,20/02/2024
+417,Galaxy Watch 4,Wearables,84,,21/02/2024
+418,Galaxy Note 20,Smartphones,,82.64,22/02/2024
+419,Galaxy Watch 4,Wearables,20,47.97,23/02/2024
+420,Galaxy Tab S7,Tablets,86,66.14,24/02/2024
+421,Galaxy Tab S7,Tablets,92,55.01,25/02/2024
+422,Galaxy Tab S7,Tablets,63,74.5,26/02/2024
+423,Galaxy Tab S7,Tablets,61,12.75,27/02/2024
+424,Galaxy S21,Smartphones,49,10.73,28/02/2024
+425,Galaxy S21,Smartphones,71,28.47,29/02/2024
+426,Galaxy Buds Pro,Accessories,1,20.16,1/03/2024
+427,Galaxy Note 20,Smartphones,96,87.82,2/03/2024
+428,Galaxy Watch 4,Wearables,13,25.83,3/03/2024
+429,Galaxy Watch 4,Wearables,94,97.71,4/03/2024
+430,Galaxy S21,Smartphones,87,,5/03/2024
+431,Galaxy Watch 4,Wearables,51,22.3,6/03/2024
+432,Galaxy S21,Smartphones,56,80.02,7/03/2024
+433,Galaxy Buds Pro,Accessories,83,67.58,8/03/2024
+434,Galaxy Note 20,Smartphones,62,52.33,9/03/2024
+435,Galaxy Buds Pro,Accessories,32,57.76,10/03/2024
+436,Galaxy Tab S7,Tablets,30,73.32,11/03/2024
+437,Galaxy Tab S7,Tablets,29,26.7,12/03/2024
+438,Galaxy Tab S7,Tablets,49,99.65,13/03/2024
+439,Galaxy Buds Pro,Accessories,45,97.61,14/03/2024
+440,Galaxy Watch 4,Wearables,93,66.78,15/03/2024
+441,Galaxy Note 20,Smartphones,30,23.96,16/03/2024
+442,Galaxy Tab S7,Tablets,16,69.62,17/03/2024
+443,Galaxy Tab S7,Tablets,40,11.86,18/03/2024
+444,Galaxy Tab S7,Tablets,19,7.91,19/03/2024
+445,Galaxy Note 20,Smartphones,18,29.48,20/03/2024
+446,Galaxy Tab S7,Tablets,1,48.95,21/03/2024
+447,Galaxy Note 20,Smartphones,,87.49,22/03/2024
+448,Galaxy Tab S7,Tablets,47,74.08,23/03/2024
+449,Galaxy Buds Pro,Accessories,66,75.56,24/03/2024
+450,Galaxy Buds Pro,Accessories,92,,25/03/2024
+451,Galaxy Note 20,Smartphones,94,,26/03/2024
+452,Galaxy Buds Pro,Accessories,38,40.25,27/03/2024
+453,Galaxy Note 20,Smartphones,51,98.83,28/03/2024
+454,Galaxy Buds Pro,Accessories,63,8.81,29/03/2024
+455,Galaxy Buds Pro,Accessories,4,87.37,30/03/2024
+456,Galaxy Note 20,Smartphones,1,59.97,31/03/2024
+457,Galaxy Watch 4,Wearables,8,46.67,1/04/2024
+458,Galaxy Buds Pro,Accessories,29,73.9,2/04/2024
+459,Galaxy Tab S7,Tablets,55,51.23,3/04/2024
+460,Galaxy Watch 4,Wearables,3,87.98,4/04/2024
+461,Galaxy Note 20,Smartphones,32,90.57,5/04/2024
+462,Galaxy Watch 4,Wearables,10,45.06,6/04/2024
+463,Galaxy S21,Smartphones,74,31.3,7/04/2024
+464,Galaxy S21,Smartphones,83,61.27,8/04/2024
+465,Galaxy Buds Pro,Accessories,34,91.67,9/04/2024
+466,Galaxy Buds Pro,Accessories,97,25.01,10/04/2024
+467,Galaxy Tab S7,Tablets,87,64.18,11/04/2024
+468,Galaxy Watch 4,Wearables,55,65,12/04/2024
+469,Galaxy S21,Smartphones,92,74.65,13/04/2024
+470,Galaxy Buds Pro,Accessories,32,17.5,14/04/2024
+471,Galaxy Watch 4,Wearables,50,73,15/04/2024
+472,Galaxy Buds Pro,Accessories,7,91.36,16/04/2024
+473,Galaxy Buds Pro,Accessories,93,22.07,17/04/2024
+474,Galaxy S21,Smartphones,8,27.57,18/04/2024
+475,Galaxy S21,Smartphones,65,97.28,19/04/2024
+476,Galaxy Buds Pro,Accessories,57,22.19,20/04/2024
+477,Galaxy Note 20,Smartphones,67,86.17,21/04/2024
+478,Galaxy Buds Pro,Accessories,88,51.77,22/04/2024
+479,Galaxy Buds Pro,Accessories,87,28.49,23/04/2024
+480,Galaxy Tab S7,Tablets,59,87.72,24/04/2024
+481,Galaxy Tab S7,Tablets,,47.3,25/04/2024
+482,Galaxy Tab S7,Tablets,54,53.91,26/04/2024
+483,Galaxy Note 20,Smartphones,67,39.13,27/04/2024
+484,Galaxy Note 20,Smartphones,51,61.33,28/04/2024
+485,Galaxy Buds Pro,Accessories,97,20.53,29/04/2024
+486,Galaxy Tab S7,Tablets,92,42.15,30/04/2024
+487,Galaxy Note 20,Smartphones,8,97.09,1/05/2024
+488,Galaxy S21,Smartphones,34,29.52,2/05/2024
+489,Galaxy Buds Pro,Accessories,35,67.39,3/05/2024
+490,Galaxy Watch 4,Wearables,96,35.89,4/05/2024
+491,Galaxy Buds Pro,Accessories,88,78.48,5/05/2024
+492,Galaxy Watch 4,Wearables,78,17.43,6/05/2024
+493,Galaxy Tab S7,Tablets,32,97.13,7/05/2024
+494,Galaxy Watch 4,Wearables,46,48.11,8/05/2024
+495,Galaxy Tab S7,Tablets,16,27.42,9/05/2024
+496,Galaxy S21,Smartphones,68,11.98,10/05/2024
+497,Galaxy Watch 4,Wearables,37,21.13,11/05/2024
+498,Galaxy Buds Pro,Accessories,54,54.38,12/05/2024
+499,Galaxy Tab S7,Tablets,85,37.02,13/05/2024
+500,Galaxy Buds Pro,Accessories,,83.74,14/05/2024
