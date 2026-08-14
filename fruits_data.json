@@ -1,0 +1,39 @@
+{
+  "fruits": [
+    {
+      "name": "Apple",
+      "color": "Red",
+      "taste": "Sweet",
+      "season": "Fall",
+      "nutrients": ["Vitamin C", "Fiber"]
+    },
+    {
+      "name": "Banana",
+      "color": "Yellow",
+      "taste": "Sweet",
+      "season": "Year-round",
+      "nutrients": ["Potassium", "Vitamin B6"]
+    },
+    {
+      "name": "Orange",
+      "color": "Orange",
+      "taste": "Citrus",
+      "season": "Winter",
+      "nutrients": ["Vitamin C", "Fiber"]
+    },
+    {
+      "name": "Strawberry",
+      "color": "Red",
+      "taste": "Sweet",
+      "season": "Spring",
+      "nutrients": ["Vitamin C", "Manganese"]
+    },
+    {
+      "name": "Blueberry",
+      "color": "Blue",
+      "taste": "Sweet",
+      "season": "Summer",
+      "nutrients": ["Vitamin C", "Vitamin K"]
+    }
+  ]
+}
