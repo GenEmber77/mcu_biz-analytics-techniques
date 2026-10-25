@@ -1,0 +1,401 @@
+Wine_ID,Wine_Name,Country,Region,Year,Profit,Rating,Grapes,Alcohol_Content,Sales_Units
+1,Riesling,France,Rioja,2006,7.16,100,Zinfandel,14.2,874
+2,Riesling,Spain,Bordeaux,2019,47.68,84.2,Chardonnay,12.5,1830
+3,Merlot,USA,Tuscany,2014,37,89,Chardonnay,12.7,1523
+4,Sauvignon Blanc,France,Bordeaux,2010,5.31,92,Chardonnay,13.4,712
+5,Pinot Noir,Argentina,Bordeaux,2007,39.37,96.5,Syrah,13.4,1603
+6,Syrah,Argentina,Maipo Valley,2020,28.13,80,Merlot,11.3,1300
+7,Pinot Noir,Australia,Mendoza,2006,40.07,97,Merlot,14.3,1601
+8,Sauvignon Blanc,Chile,Barossa Valley,2018,28.51,81,Chardonnay,11.7,1535
+9,Riesling,Italy,Mendoza,2010,33.85,100,Chardonnay,13.9,1499
+10,Pinot Noir,Italy,Marlborough,2010,40.38,94,Cabernet Sauvignon,14.1,1505
+11,Cabernet Sauvignon,New Zealand,Barossa Valley,2020,23.23,94,Riesling,13.9,1361
+12,Cabernet Sauvignon,USA,Bordeaux,2003,5.12,90,Merlot,13.3,938
+13,Chardonnay,USA,Tuscany,2007,43.25,80,Riesling,11.1,1551
+14,Chardonnay,Chile,Rioja,2002,22.14,90,Riesling,12.4,1082
+15,Sauvignon Blanc,Argentina,Maipo Valley,2020,27.32,87.2,Cabernet Sauvignon,13.4,1248
+16,Sauvignon Blanc,New Zealand,Barossa Valley,2001,5.35,87,Riesling,12.5,990
+17,Zinfandel,Chile,Marlborough,2011,27.14,98,Zinfandel,14.5,1312
+18,Sauvignon Blanc,France,Bordeaux,2005,49.39,88,Cabernet Sauvignon,12.2,1795
+19,Cabernet Sauvignon,Italy,Rioja,2001,17.52,84,Riesling,12.2,1016
+20,Pinot Noir,Italy,Barossa Valley,2020,22.79,85,Riesling,12.1,1342
+21,Syrah,Argentina,Mendoza,2000,35.92,86.1,Sauvignon Blanc,12.3,1316
+22,Zinfandel,USA,Mendoza,2011,41.67,95,Riesling,13.2,1567
+23,Zinfandel,Argentina,Barossa Valley,2011,23.78,100,Syrah,13.8,1317
+24,Riesling,Chile,Barossa Valley,2016,18.94,92,Zinfandel,13.7,1066
+25,Zinfandel,USA,Barossa Valley,2009,47.2,96,Pinot Noir,14.2,1805
+26,Sauvignon Blanc,New Zealand,Rioja,2015,35.47,100,Merlot,14.5,1422
+27,Sauvignon Blanc,Chile,Mendoza,2014,10.36,97,Chardonnay,14.3,884
+28,Cabernet Sauvignon,Australia,Tuscany,2014,8.1,80,Riesling,11.1,1090
+29,Syrah,France,Marlborough,2018,26.76,100,Zinfandel,13.9,1350
+30,Cabernet Sauvignon,Spain,Marlborough,2011,14.9,80,Chardonnay,11.8,1149
+31,Syrah,Australia,Maipo Valley,2019,16.43,80,Pinot Noir,11.5,1230
+32,Cabernet Sauvignon,Chile,Bordeaux,2002,44.5,94,Zinfandel,13.6,1428
+33,Pinot Noir,Australia,Napa Valley,2004,9.03,86,Merlot,12.3,1044
+34,Riesling,USA,Tuscany,2018,37.19,80,Zinfandel,11.2,1467
+35,Sauvignon Blanc,USA,Mendoza,2006,17.2,80,Chardonnay,11.6,1081
+36,Merlot,USA,Bordeaux,2020,39.21,80,Chardonnay,11,1627
+37,Merlot,Australia,Maipo Valley,2008,37.51,100,Sauvignon Blanc,14.6,1513
+38,Riesling,Argentina,Bordeaux,2006,5.33,80,Riesling,11.1,966
+39,Sauvignon Blanc,France,Barossa Valley,2017,27.91,80,Cabernet Sauvignon,11.8,1354
+40,Zinfandel,Argentina,Napa Valley,2003,11.27,83.4,Zinfandel,12.7,1042
+41,Sauvignon Blanc,USA,Mendoza,2013,43.98,82,Chardonnay,12.4,1630
+42,Sauvignon Blanc,Chile,Napa Valley,2017,44.22,100,Syrah,14.6,1607
+43,Riesling,Chile,Tuscany,2008,23.83,80,Merlot,11.2,1202
+44,Sauvignon Blanc,Italy,Napa Valley,2020,25,89,Syrah,13,1289
+45,Zinfandel,Argentina,Bordeaux,2001,18.65,98,Pinot Noir,13.7,1356
+46,Syrah,France,Napa Valley,2019,37.25,100,Zinfandel,14.7,1692
+47,Riesling,Chile,Napa Valley,2014,21.14,94,Sauvignon Blanc,13.5,1157
+48,Pinot Noir,Italy,Marlborough,2006,17.05,99,Merlot,14.2,1147
+49,Merlot,France,Mendoza,2011,24.45,80,Sauvignon Blanc,11.3,1260
+50,Riesling,USA,Mendoza,2007,9.12,85,Cabernet Sauvignon,12.5,995
+51,Chardonnay,Argentina,Bordeaux,2014,38.6,82.5,Chardonnay,12.5,1597
+52,Merlot,Spain,Rioja,2002,5.57,100,Riesling,14.5,964
+53,Merlot,New Zealand,Napa Valley,2013,34,83,Merlot,11.6,1189
+54,Zinfandel,USA,Napa Valley,2016,13.23,85,Pinot Noir,11.6,1101
+55,Cabernet Sauvignon,Chile,Barossa Valley,2003,15.46,85,Riesling,12.3,1069
+56,Sauvignon Blanc,Australia,Mendoza,2017,33.6,80,Zinfandel,11.2,1401
+57,Sauvignon Blanc,Spain,Napa Valley,2007,49.68,80,Cabernet Sauvignon,11.7,1873
+58,Sauvignon Blanc,Australia,Mendoza,2003,40,100,Cabernet Sauvignon,14.9,1866
+59,Cabernet Sauvignon,France,Napa Valley,2001,15.16,87,Sauvignon Blanc,12.7,1172
+60,Zinfandel,Australia,Marlborough,2005,12.92,98,Cabernet Sauvignon,13.5,1006
+61,Riesling,Spain,Bordeaux,2009,43.98,98,Merlot,13.9,1571
+62,Pinot Noir,Spain,Mendoza,2003,24.99,88,Sauvignon Blanc,12.5,999
+63,Pinot Noir,USA,Tuscany,2017,11.17,82,Riesling,11.6,1041
+64,Zinfandel,Italy,Bordeaux,2011,43.8,82,Cabernet Sauvignon,11.8,1733
+65,Chardonnay,USA,Barossa Valley,2001,41.72,90.1,Zinfandel,12.3,1624
+66,Pinot Noir,France,Bordeaux,2009,49.28,87,Riesling,13.5,1878
+67,Zinfandel,Chile,Napa Valley,2003,45.94,88,Pinot Noir,12.6,1586
+68,Riesling,Australia,Barossa Valley,2013,43.33,80,Zinfandel,11,1649
+69,Pinot Noir,Italy,Bordeaux,2015,7.37,86,Syrah,13.1,922
+70,Sauvignon Blanc,Argentina,Maipo Valley,2014,9.7,100,Merlot,14.7,982
+71,Syrah,New Zealand,Barossa Valley,2007,30.6,97,Pinot Noir,14.2,1528
+72,Zinfandel,Spain,Maipo Valley,2013,28.92,100,Pinot Noir,14.3,1367
+73,Merlot,Italy,Tuscany,2007,25.61,97,Sauvignon Blanc,14.2,1282
+74,Pinot Noir,Chile,Bordeaux,2020,22.86,88,Chardonnay,12.3,1163
+75,Pinot Noir,Argentina,Mendoza,2015,24.4,97,Sauvignon Blanc,14.1,1420
+76,Cabernet Sauvignon,Italy,Mendoza,2012,30.62,83,Merlot,11.6,1269
+77,Chardonnay,USA,Rioja,2017,5.09,96,Merlot,13.6,846
+78,Syrah,Argentina,Napa Valley,2014,16.73,92,Sauvignon Blanc,13.6,1303
+79,Riesling,New Zealand,Maipo Valley,2020,28.32,80,Chardonnay,11.1,1413
+80,Cabernet Sauvignon,Chile,Barossa Valley,2012,37.5,97,Zinfandel,14.2,1547
+81,Sauvignon Blanc,Spain,Rioja,2008,12.84,100,Sauvignon Blanc,14.6,1058
+82,Merlot,Chile,Rioja,2014,29.61,83,Merlot,12.1,1297
+83,Chardonnay,France,Marlborough,2012,37.15,100,Chardonnay,14.2,1536
+84,Cabernet Sauvignon,France,Maipo Valley,2000,25.01,80,Merlot,11.3,1265
+85,Zinfandel,Italy,Barossa Valley,2006,6.22,93,Chardonnay,13.4,942
+86,Pinot Noir,Argentina,Rioja,2008,25.22,88,Chardonnay,12.9,1153
+87,Pinot Noir,Italy,Marlborough,2000,18.34,88,Riesling,13.2,1206
+88,Chardonnay,Australia,Rioja,2011,46.83,100,Sauvignon Blanc,14.7,1838
+89,Pinot Noir,New Zealand,Napa Valley,2007,10.61,99,Sauvignon Blanc,14.5,991
+90,Zinfandel,Spain,Tuscany,2010,34.36,93,Sauvignon Blanc,14.1,1551
+91,Cabernet Sauvignon,Italy,Maipo Valley,2018,7.37,80,Chardonnay,12.1,978
+92,Cabernet Sauvignon,Australia,Marlborough,2016,25.08,100,Chardonnay,14.6,1240
+93,Pinot Noir,Argentina,Tuscany,2007,29.93,80.5,Merlot,11.4,1292
+94,Pinot Noir,New Zealand,Barossa Valley,2002,18.41,100,Pinot Noir,14.4,1076
+95,Sauvignon Blanc,Spain,Napa Valley,2002,25.48,85,Sauvignon Blanc,12.3,1338
+96,Merlot,France,Marlborough,2000,12.36,82,Riesling,11.2,1041
+97,Riesling,Australia,Barossa Valley,2004,18.69,99,Syrah,13.7,1301
+98,Chardonnay,Argentina,Rioja,2009,32.95,80,Merlot,11.9,1538
+99,Cabernet Sauvignon,New Zealand,Mendoza,2006,18.58,80,Merlot,12,1250
+100,Chardonnay,Australia,Bordeaux,2008,45.49,80,Cabernet Sauvignon,12.2,1736
+101,Sauvignon Blanc,Italy,Barossa Valley,2006,33.28,80,Sauvignon Blanc,11.3,1369
+102,Cabernet Sauvignon,USA,Tuscany,2008,24.74,87,Zinfandel,11.7,1327
+103,Sauvignon Blanc,France,Napa Valley,2007,6.74,80,Merlot,11,941
+104,Sauvignon Blanc,Italy,Napa Valley,2011,27.48,90,Cabernet Sauvignon,12.8,1235
+105,Syrah,Italy,Barossa Valley,2001,39.41,83,Syrah,11.3,1709
+106,Pinot Noir,Argentina,Rioja,2000,16.95,96,Riesling,13.7,1249
+107,Zinfandel,Argentina,Bordeaux,2015,41.3,83,Syrah,11.9,1511
+108,Syrah,New Zealand,Maipo Valley,2004,16.33,100,Zinfandel,14.8,1062
+109,Riesling,Argentina,Tuscany,2002,42.07,100,Sauvignon Blanc,14.5,1586
+110,Chardonnay,Australia,Barossa Valley,2011,8.84,85,Chardonnay,12.2,1037
+111,Zinfandel,France,Barossa Valley,2007,43.98,96,Cabernet Sauvignon,14.1,1729
+112,Chardonnay,Italy,Mendoza,2002,27.46,99,Chardonnay,14.2,1353
+113,Pinot Noir,New Zealand,Napa Valley,2000,18.34,100,Syrah,14.9,1194
+114,Zinfandel,Chile,Tuscany,2002,16.93,99,Syrah,13.4,1009
+115,Syrah,Chile,Bordeaux,2004,24.44,80,Pinot Noir,11.3,1326
+116,Chardonnay,France,Napa Valley,2014,49.96,97,Pinot Noir,13.6,1789
+117,Syrah,Argentina,Barossa Valley,2013,14.91,95,Riesling,13.5,1030
+118,Pinot Noir,Argentina,Napa Valley,2002,9.64,94,Zinfandel,13.6,839
+119,Zinfandel,Australia,Napa Valley,2000,31.33,86,Pinot Noir,12.2,1429
+120,Zinfandel,Argentina,Marlborough,2004,26.98,100,Pinot Noir,14.4,1375
+121,Cabernet Sauvignon,Chile,Napa Valley,2013,28.59,100,Zinfandel,14.8,1201
+122,Sauvignon Blanc,Italy,Rioja,2006,35.01,80,Merlot,11.9,1502
+123,Sauvignon Blanc,Chile,Napa Valley,2008,17.02,80,Pinot Noir,11.4,1152
+124,Syrah,Spain,Maipo Valley,2014,45.98,83,Merlot,11.8,1664
+125,Zinfandel,Italy,Rioja,2014,24.61,100,Merlot,14.3,1330
+126,Chardonnay,Italy,Tuscany,2009,10.81,92,Sauvignon Blanc,13.7,1002
+127,Syrah,Argentina,Napa Valley,2012,38.4,87,Merlot,13.5,1596
+128,Syrah,France,Bordeaux,2018,33.94,86,Merlot,12.6,1532
+129,Merlot,Argentina,Rioja,2006,19.21,92,Pinot Noir,13.3,1237
+130,Riesling,France,Rioja,2016,32.97,81,Merlot,12.2,1561
+131,Zinfandel,France,Barossa Valley,2019,14.89,88,Chardonnay,12.9,1131
+132,Sauvignon Blanc,Chile,Tuscany,2003,25.02,100,Zinfandel,14.2,1252
+133,Zinfandel,France,Napa Valley,2004,45.47,100,Pinot Noir,14.9,1644
+134,Pinot Noir,New Zealand,Mendoza,2006,11.01,100,Zinfandel,14.7,913
+135,Syrah,USA,Bordeaux,2012,22.4,100,Cabernet Sauvignon,14.7,1263
+136,Merlot,Argentina,Barossa Valley,2014,41.95,85,Pinot Noir,12.6,1771
+137,Merlot,New Zealand,Tuscany,2010,48.63,89,Merlot,12.9,1736
+138,Sauvignon Blanc,Italy,Maipo Valley,2003,25.43,98,Chardonnay,13.8,1353
+139,Sauvignon Blanc,New Zealand,Rioja,2012,27.81,98,Zinfandel,14.7,1280
+140,Sauvignon Blanc,Australia,Bordeaux,2006,30.75,86,Pinot Noir,11.6,1434
+141,Pinot Noir,Spain,Maipo Valley,2018,46.96,87,Chardonnay,12.2,1865
+142,Merlot,France,Napa Valley,2001,43.62,80,Zinfandel,11.6,1741
+143,Chardonnay,Argentina,Mendoza,2009,12.68,96,Cabernet Sauvignon,13.4,896
+144,Pinot Noir,Australia,Marlborough,2012,24.65,89,Syrah,12.2,1350
+145,Cabernet Sauvignon,Argentina,Marlborough,2020,25.88,85,Riesling,12.3,1379
+146,Riesling,Chile,Tuscany,2005,40.51,80,Riesling,11.3,1627
+147,Riesling,Spain,Mendoza,2011,32.13,91,Cabernet Sauvignon,12.4,1509
+148,Syrah,Australia,Bordeaux,2011,34.44,100,Syrah,14.4,1405
+149,Riesling,Argentina,Barossa Valley,2019,49.92,83,Sauvignon Blanc,11.9,1804
+150,Sauvignon Blanc,Italy,Bordeaux,2010,8.37,93,Syrah,13.8,1078
+151,Merlot,France,Mendoza,2006,15.04,93,Sauvignon Blanc,13.5,1202
+152,Riesling,Australia,Maipo Valley,2000,23.36,100,Pinot Noir,14.5,1322
+153,Syrah,Italy,Rioja,2000,20.65,80,Sauvignon Blanc,11.5,1124
+154,Riesling,France,Marlborough,2019,5.97,100,Riesling,14.9,815
+155,Zinfandel,USA,Tuscany,2012,9.13,93,Riesling,13.3,994
+156,Pinot Noir,Italy,Napa Valley,2008,35.64,100,Chardonnay,15,1530
+157,Cabernet Sauvignon,New Zealand,Bordeaux,2002,44.57,100,Sauvignon Blanc,14.6,1681
+158,Zinfandel,Argentina,Marlborough,2006,28.14,85,Chardonnay,11.9,1282
+159,Pinot Noir,Chile,Barossa Valley,2005,29.26,84,Riesling,11.2,1428
+160,Pinot Noir,France,Tuscany,2007,16.48,86,Zinfandel,12,1140
+161,Chardonnay,Australia,Napa Valley,2008,39.55,88,Zinfandel,13.1,1619
+162,Riesling,Spain,Bordeaux,2004,38.83,83,Syrah,11.7,1635
+163,Syrah,Australia,Barossa Valley,2000,31.48,84,Syrah,11.7,1402
+164,Chardonnay,New Zealand,Napa Valley,2018,14.57,93,Syrah,12.9,1042
+165,Pinot Noir,Argentina,Rioja,2009,9.37,80,Sauvignon Blanc,11.1,1098
+166,Riesling,New Zealand,Marlborough,2011,7.89,80,Syrah,11.5,882
+167,Cabernet Sauvignon,Australia,Rioja,2014,31.67,85,Sauvignon Blanc,12.7,1386
+168,Merlot,Chile,Marlborough,2008,42.13,83,Sauvignon Blanc,11.3,1766
+169,Merlot,Argentina,Barossa Valley,2019,43.62,90,Merlot,12.6,1617
+170,Riesling,Spain,Maipo Valley,2016,25.86,87,Merlot,12.9,1307
+171,Zinfandel,France,Rioja,2016,40.29,89,Sauvignon Blanc,12.8,1564
+172,Syrah,Argentina,Marlborough,2019,47.61,100,Zinfandel,14.5,1573
+173,Sauvignon Blanc,Italy,Tuscany,2011,17.38,88,Chardonnay,13.1,1135
+174,Sauvignon Blanc,Argentina,Barossa Valley,2006,22.91,90,Riesling,12.9,1157
+175,Merlot,New Zealand,Marlborough,2001,46.92,88,Riesling,12.6,1763
+176,Pinot Noir,New Zealand,Bordeaux,2002,20.22,100,Pinot Noir,14.3,1314
+177,Pinot Noir,New Zealand,Marlborough,2016,46.12,100,Cabernet Sauvignon,14.6,1500
+178,Chardonnay,Spain,Rioja,2004,49.15,95,Merlot,14.4,1742
+179,Riesling,Argentina,Tuscany,2016,34.78,92,Sauvignon Blanc,13.7,1540
+180,Syrah,Chile,Napa Valley,2016,41.76,80,Cabernet Sauvignon,11.5,1416
+181,Riesling,Chile,Maipo Valley,2016,38.73,83,Merlot,12.1,1708
+182,Riesling,Argentina,Napa Valley,2001,36.48,80,Pinot Noir,11.2,1567
+183,Chardonnay,Chile,Marlborough,2001,18.81,100,Riesling,14.7,1284
+184,Sauvignon Blanc,USA,Napa Valley,2004,7.57,91,Chardonnay,13.6,895
+185,Riesling,Spain,Marlborough,2000,20.44,98,Sauvignon Blanc,14,1164
+186,Merlot,France,Tuscany,2000,35.01,91,Pinot Noir,12.2,1484
+187,Zinfandel,France,Napa Valley,2018,9.61,100,Riesling,14.4,1206
+188,Riesling,France,Rioja,2001,5.54,85,Zinfandel,12,1042
+189,Pinot Noir,France,Rioja,2020,11.29,82,Merlot,11,1039
+190,Riesling,France,Bordeaux,2011,37.21,91,Sauvignon Blanc,12.5,1569
+191,Merlot,Chile,Marlborough,2005,48.78,94,Cabernet Sauvignon,13.3,1839
+192,Cabernet Sauvignon,Australia,Napa Valley,2003,49.24,89,Zinfandel,12.9,2023
+193,Merlot,New Zealand,Rioja,2010,27.23,100,Riesling,14.4,1382
+194,Cabernet Sauvignon,Spain,Mendoza,2016,44.12,80,Zinfandel,11.4,1686
+195,Chardonnay,Australia,Tuscany,2005,38.16,91,Syrah,13.2,1529
+196,Chardonnay,Spain,Maipo Valley,2004,27.55,92,Chardonnay,13.1,1374
+197,Sauvignon Blanc,USA,Tuscany,2019,30.77,85,Riesling,12.1,1356
+198,Merlot,Argentina,Mendoza,2001,11.18,96,Zinfandel,14.3,1073
+199,Merlot,Italy,Mendoza,2005,47.19,100,Merlot,14,1600
+200,Cabernet Sauvignon,New Zealand,Bordeaux,2010,20.84,98,Chardonnay,13.9,1190
+201,Chardonnay,USA,Tuscany,2015,25.08,100,Sauvignon Blanc,14.5,1375
+202,Cabernet Sauvignon,Australia,Tuscany,2015,35.22,97,Syrah,13.9,1541
+203,Chardonnay,Italy,Napa Valley,2000,20.03,86,Riesling,11.9,1154
+204,Cabernet Sauvignon,Argentina,Marlborough,2008,16.44,92,Pinot Noir,13.8,1105
+205,Chardonnay,USA,Barossa Valley,2005,33.4,85,Chardonnay,12.2,1571
+206,Cabernet Sauvignon,Argentina,Maipo Valley,2015,6.12,80,Cabernet Sauvignon,12,801
+207,Zinfandel,Argentina,Tuscany,2002,37.43,87,Merlot,11.3,1428
+208,Chardonnay,Chile,Maipo Valley,2019,28.13,98,Riesling,14,1269
+209,Syrah,Spain,Maipo Valley,2003,32.26,93,Cabernet Sauvignon,13.8,1444
+210,Cabernet Sauvignon,Italy,Maipo Valley,2018,33.43,94,Chardonnay,11.9,1332
+211,Merlot,Spain,Tuscany,2002,28.72,96,Riesling,14,1469
+212,Sauvignon Blanc,Argentina,Barossa Valley,2018,31.21,100,Syrah,14.7,1331
+213,Syrah,Chile,Tuscany,2019,35.77,80,Pinot Noir,11.4,1537
+214,Syrah,USA,Napa Valley,2006,38.89,80,Pinot Noir,11.9,1519
+215,Cabernet Sauvignon,Argentina,Napa Valley,2019,37.74,98,Cabernet Sauvignon,14,1548
+216,Sauvignon Blanc,Australia,Barossa Valley,2008,44.13,80,Sauvignon Blanc,12.1,1522
+217,Merlot,Argentina,Rioja,2000,13.52,97,Sauvignon Blanc,13.5,1170
+218,Syrah,Spain,Tuscany,2007,23.05,80,Syrah,11.3,1164
+219,Merlot,Italy,Rioja,2006,47.65,88,Pinot Noir,12.8,1646
+220,Chardonnay,USA,Maipo Valley,2017,22.85,100,Cabernet Sauvignon,14,1494
+221,Riesling,Spain,Tuscany,2007,10.62,95,Cabernet Sauvignon,13.7,1067
+222,Zinfandel,Argentina,Marlborough,2000,28.65,99,Riesling,14.3,1469
+223,Riesling,Australia,Tuscany,2010,9.93,98,Riesling,14.5,1044
+224,Riesling,New Zealand,Napa Valley,2017,14.13,100,Cabernet Sauvignon,14.1,1037
+225,Sauvignon Blanc,Chile,Bordeaux,2009,49.92,97,Riesling,13.7,1667
+226,Zinfandel,Australia,Mendoza,2002,29.36,80,Chardonnay,11.1,1357
+227,Pinot Noir,Argentina,Bordeaux,2006,17.78,92,Riesling,13.1,1057
+228,Chardonnay,Australia,Bordeaux,2015,49.76,80,Syrah,11.2,1703
+229,Sauvignon Blanc,Chile,Bordeaux,2015,48.5,100,Sauvignon Blanc,14.2,1611
+230,Cabernet Sauvignon,New Zealand,Mendoza,2019,24.83,86,Sauvignon Blanc,12.3,1308
+231,Zinfandel,Australia,Rioja,2016,16.72,89,Chardonnay,13.2,1291
+232,Cabernet Sauvignon,New Zealand,Mendoza,2001,42.73,86,Merlot,12.1,1710
+233,Merlot,Argentina,Rioja,2000,37.2,97,Chardonnay,14.1,1533
+234,Riesling,New Zealand,Mendoza,2015,35.91,97,Syrah,14.5,1514
+235,Syrah,Spain,Mendoza,2011,45.19,89,Cabernet Sauvignon,12.6,1399
+236,Zinfandel,Spain,Tuscany,2004,36.02,100,Chardonnay,14.5,1478
+237,Pinot Noir,New Zealand,Rioja,2004,17.77,88,Cabernet Sauvignon,12.1,1012
+238,Cabernet Sauvignon,USA,Tuscany,2008,36.22,91,Syrah,13.1,1537
+239,Sauvignon Blanc,Italy,Marlborough,2008,18.76,100,Zinfandel,14.4,1149
+240,Zinfandel,USA,Tuscany,2002,39.17,86,Syrah,12.3,1496
+241,Zinfandel,New Zealand,Bordeaux,2018,32.89,100,Pinot Noir,14.8,1468
+242,Syrah,Italy,Barossa Valley,2015,8.48,80,Cabernet Sauvignon,11.5,979
+243,Syrah,Spain,Barossa Valley,2015,28.08,80,Sauvignon Blanc,11.1,1513
+244,Sauvignon Blanc,Italy,Napa Valley,2002,20.45,100,Chardonnay,14.6,1327
+245,Syrah,New Zealand,Napa Valley,2019,19.79,80,Zinfandel,11.3,1217
+246,Cabernet Sauvignon,Spain,Maipo Valley,2000,32.1,100,Syrah,15,1347
+247,Sauvignon Blanc,Italy,Tuscany,2019,19.5,100,Cabernet Sauvignon,14.8,1082
+248,Riesling,Italy,Mendoza,2010,39.96,80,Zinfandel,11.5,1659
+249,Sauvignon Blanc,USA,Mendoza,2016,8.19,98,Merlot,13.2,943
+250,Merlot,Italy,Barossa Valley,2007,34.72,80,Pinot Noir,11.7,1519
+251,Pinot Noir,Argentina,Bordeaux,2003,41.41,86,Merlot,12.7,1726
+252,Zinfandel,New Zealand,Rioja,2005,35.28,80,Syrah,11.2,1354
+253,Merlot,France,Bordeaux,2007,27.38,83,Merlot,11.9,1487
+254,Pinot Noir,France,Maipo Valley,2019,47.76,88,Merlot,12.5,1852
+255,Sauvignon Blanc,France,Bordeaux,2002,18.5,88,Pinot Noir,12.8,964
+256,Zinfandel,New Zealand,Tuscany,2015,5.86,100,Pinot Noir,14.9,1152
+257,Syrah,France,Tuscany,2002,24.44,99,Riesling,14.2,1320
+258,Pinot Noir,USA,Marlborough,2017,6.49,100,Pinot Noir,13.9,881
+259,Sauvignon Blanc,New Zealand,Maipo Valley,2013,47.93,91,Zinfandel,13.1,1810
+260,Sauvignon Blanc,Argentina,Bordeaux,2017,14.45,100,Riesling,14.4,991
+261,Merlot,Spain,Mendoza,2001,40.5,88,Pinot Noir,12.4,1664
+262,Merlot,Argentina,Mendoza,2002,39.86,99,Merlot,13.8,1517
+263,Syrah,New Zealand,Maipo Valley,2015,14.8,100,Sauvignon Blanc,15,1298
+264,Riesling,New Zealand,Bordeaux,2008,32.96,82,Sauvignon Blanc,12.3,1465
+265,Chardonnay,Italy,Tuscany,2003,7.16,100,Riesling,13.7,1008
+266,Cabernet Sauvignon,Italy,Tuscany,2000,26.76,100,Pinot Noir,14.4,1256
+267,Chardonnay,Italy,Marlborough,2003,5.66,100,Zinfandel,14.7,994
+268,Chardonnay,Chile,Marlborough,2000,46.45,97,Chardonnay,13.9,1727
+269,Zinfandel,Chile,Napa Valley,2013,48.92,83,Cabernet Sauvignon,12.1,1637
+270,Riesling,Australia,Maipo Valley,2020,15,86,Syrah,12.3,1076
+271,Zinfandel,Chile,Barossa Valley,2015,14.36,80,Zinfandel,11.1,1280
+272,Syrah,USA,Bordeaux,2019,38.92,100,Chardonnay,14,1664
+273,Zinfandel,New Zealand,Maipo Valley,2007,16.4,80,Syrah,11.2,1090
+274,Pinot Noir,Argentina,Mendoza,2006,45.28,100,Chardonnay,14.5,1518
+275,Syrah,New Zealand,Bordeaux,2002,30.83,80,Chardonnay,11.5,1333
+276,Syrah,Italy,Marlborough,2016,20.78,83,Riesling,11.7,1074
+277,Sauvignon Blanc,New Zealand,Marlborough,2000,42.47,87,Sauvignon Blanc,12.9,1464
+278,Sauvignon Blanc,Spain,Napa Valley,2015,27.2,95,Cabernet Sauvignon,14,1422
+279,Sauvignon Blanc,Chile,Barossa Valley,2011,46.02,81,Chardonnay,11.6,1726
+280,Cabernet Sauvignon,New Zealand,Napa Valley,2018,46.76,97,Pinot Noir,12.8,1914
+281,Pinot Noir,Argentina,Mendoza,2013,12.44,90,Syrah,12.9,949
+282,Pinot Noir,France,Barossa Valley,2005,5.1,80,Zinfandel,11.8,901
+283,Sauvignon Blanc,Spain,Rioja,2005,49.28,80,Sauvignon Blanc,11.5,1646
+284,Chardonnay,Spain,Bordeaux,2012,45.78,100,Syrah,14.3,1656
+285,Cabernet Sauvignon,New Zealand,Napa Valley,2018,7.5,87,Riesling,13,927
+286,Chardonnay,Australia,Marlborough,2007,42.49,80,Pinot Noir,11.1,1612
+287,Merlot,Italy,Napa Valley,2001,25.6,99,Pinot Noir,14.2,1317
+288,Pinot Noir,USA,Rioja,2020,16.65,100,Chardonnay,14.9,1230
+289,Pinot Noir,USA,Napa Valley,2000,44.54,92,Pinot Noir,13.4,1777
+290,Chardonnay,France,Bordeaux,2014,13.85,89,Cabernet Sauvignon,13,1000
+291,Cabernet Sauvignon,USA,Rioja,2000,47.63,100,Riesling,14.5,1749
+292,Pinot Noir,USA,Maipo Valley,2004,14.25,100,Pinot Noir,14.8,1164
+293,Chardonnay,Italy,Maipo Valley,2015,32.62,97,Chardonnay,14,1555
+294,Syrah,Chile,Maipo Valley,2018,15.04,94,Syrah,12.8,1034
+295,Syrah,Italy,Marlborough,2003,29.56,95,Riesling,13.4,1462
+296,Zinfandel,Australia,Marlborough,2002,35.78,90,Pinot Noir,13.8,1548
+297,Cabernet Sauvignon,Argentina,Maipo Valley,2016,13.56,84,Sauvignon Blanc,11.8,964
+298,Chardonnay,France,Maipo Valley,2016,28.44,91,Riesling,12.8,1448
+299,Zinfandel,USA,Maipo Valley,2011,26.11,100,Riesling,14.3,1337
+300,Syrah,Australia,Tuscany,2013,8.2,92,Zinfandel,13.6,789
+301,Cabernet Sauvignon,France,Maipo Valley,2020,41.82,89,Sauvignon Blanc,12.6,1607
+302,Riesling,Spain,Rioja,2005,20.11,96,Sauvignon Blanc,13.7,1206
+303,Zinfandel,USA,Tuscany,2002,30.86,80,Syrah,11.5,1356
+304,Riesling,USA,Tuscany,2008,28.17,91,Merlot,12.6,1486
+305,Sauvignon Blanc,Italy,Bordeaux,2004,28.1,98,Zinfandel,14.2,1488
+306,Cabernet Sauvignon,New Zealand,Napa Valley,2016,9.83,86,Sauvignon Blanc,11.9,958
+307,Merlot,France,Marlborough,2013,24.06,80,Sauvignon Blanc,11.7,1231
+308,Sauvignon Blanc,USA,Marlborough,2020,25.36,99,Merlot,14.8,1294
+309,Zinfandel,Chile,Napa Valley,2002,38.01,81,Syrah,11.8,1540
+310,Chardonnay,France,Marlborough,2000,42.8,84,Zinfandel,12,1596
+311,Sauvignon Blanc,Argentina,Napa Valley,2019,29.52,100,Sauvignon Blanc,14.9,1019
+312,Sauvignon Blanc,Chile,Rioja,2020,8.91,88,Chardonnay,13.9,1153
+313,Zinfandel,Australia,Bordeaux,2000,15.66,97,Syrah,13.8,1113
+314,Chardonnay,Chile,Maipo Valley,2002,12.42,100,Zinfandel,14.4,1030
+315,Chardonnay,Australia,Bordeaux,2017,10.61,82,Sauvignon Blanc,11.5,1044
+316,Syrah,New Zealand,Mendoza,2009,21.47,95,Sauvignon Blanc,13.8,1221
+317,Merlot,USA,Bordeaux,2002,15.32,89,Merlot,13,1063
+318,Chardonnay,Chile,Napa Valley,2007,14.82,100,Zinfandel,14.3,995
+319,Pinot Noir,Argentina,Mendoza,2013,7.46,86,Chardonnay,13,765
+320,Pinot Noir,Italy,Napa Valley,2017,5.8,93,Syrah,13.5,780
+321,Merlot,USA,Maipo Valley,2014,9.62,90,Pinot Noir,12.9,880
+322,Cabernet Sauvignon,France,Barossa Valley,2001,12.75,92,Cabernet Sauvignon,12.9,1120
+323,Zinfandel,Spain,Mendoza,2009,24.39,99,Chardonnay,14.1,1360
+324,Cabernet Sauvignon,Australia,Maipo Valley,2001,27.97,91,Pinot Noir,13.5,1271
+325,Pinot Noir,France,Maipo Valley,2016,11.33,98,Chardonnay,13.5,760
+326,Chardonnay,New Zealand,Marlborough,2007,24.12,89,Zinfandel,12.8,1283
+327,Merlot,Australia,Marlborough,2000,20.38,86,Pinot Noir,13.1,1165
+328,Cabernet Sauvignon,Italy,Barossa Valley,2008,13.25,98,Zinfandel,14,1020
+329,Cabernet Sauvignon,Australia,Barossa Valley,2010,5.31,100,Pinot Noir,14.3,1001
+330,Riesling,Spain,Bordeaux,2015,26.02,100,Chardonnay,13.8,1334
+331,Zinfandel,Chile,Maipo Valley,2006,35.85,100,Merlot,14.7,1419
+332,Sauvignon Blanc,Argentina,Barossa Valley,2009,15.18,95,Chardonnay,14.3,982
+333,Pinot Noir,Chile,Napa Valley,2002,10.93,88,Zinfandel,13.2,992
+334,Chardonnay,USA,Maipo Valley,2017,44.92,99,Chardonnay,13.7,1607
+335,Merlot,Spain,Tuscany,2012,17.38,100,Riesling,14.7,1160
+336,Cabernet Sauvignon,Argentina,Napa Valley,2006,15.06,89,Riesling,13.5,1203
+337,Zinfandel,Spain,Mendoza,2003,43.57,100,Pinot Noir,14.3,1533
+338,Sauvignon Blanc,USA,Barossa Valley,2012,41.77,95,Riesling,13.8,1644
+339,Pinot Noir,Australia,Marlborough,2019,25.18,95,Cabernet Sauvignon,13.2,1395
+340,Pinot Noir,New Zealand,Napa Valley,2000,27.02,81,Pinot Noir,12,1331
+341,Zinfandel,USA,Marlborough,2007,14.8,93,Riesling,12.7,1168
+342,Riesling,USA,Napa Valley,2013,8.52,100,Sauvignon Blanc,14.9,941
+343,Merlot,Argentina,Marlborough,2015,30.8,93,Chardonnay,13.6,1433
+344,Cabernet Sauvignon,Italy,Rioja,2013,9.43,88,Syrah,13.3,1032
+345,Merlot,Chile,Napa Valley,2011,25.22,100,Chardonnay,14.7,1247
+346,Zinfandel,Australia,Mendoza,2018,47.32,92,Riesling,13.3,1945
+347,Zinfandel,USA,Marlborough,2014,47.88,89,Merlot,13.1,1815
+348,Merlot,New Zealand,Tuscany,2001,15.77,100,Zinfandel,14,1245
+349,Syrah,France,Mendoza,2001,33.09,100,Syrah,13.9,1568
+350,Sauvignon Blanc,Australia,Bordeaux,2018,26.33,86,Pinot Noir,11.8,1359
+351,Pinot Noir,Italy,Napa Valley,2016,44.41,90,Merlot,12.9,1826
+352,Syrah,Spain,Tuscany,2019,17.21,95,Chardonnay,12.9,1162
+353,Chardonnay,USA,Bordeaux,2009,5.17,83,Riesling,12.5,830
+354,Pinot Noir,New Zealand,Napa Valley,2005,12.32,90,Pinot Noir,13.1,1047
+355,Pinot Noir,Australia,Tuscany,2014,20.73,90,Pinot Noir,12.7,1113
+356,Sauvignon Blanc,New Zealand,Tuscany,2010,19.21,86,Sauvignon Blanc,11.8,974
+357,Chardonnay,New Zealand,Mendoza,2004,40.61,90,Sauvignon Blanc,12.6,1526
+358,Cabernet Sauvignon,Chile,Rioja,2000,35.63,80,Riesling,11.3,1519
+359,Chardonnay,Argentina,Tuscany,2007,18.48,91,Riesling,13.3,1275
+360,Cabernet Sauvignon,Spain,Rioja,2020,25.6,100,Cabernet Sauvignon,14.4,1226
+361,Riesling,Italy,Barossa Valley,2011,9.3,99,Sauvignon Blanc,13.9,1087
+362,Riesling,Chile,Mendoza,2011,45.42,84,Zinfandel,12.4,1587
+363,Chardonnay,Australia,Maipo Valley,2004,47.09,80,Syrah,11.3,1649
+364,Merlot,USA,Marlborough,2006,49.09,80,Pinot Noir,11.8,1926
+365,Zinfandel,Italy,Mendoza,2003,44.08,90,Sauvignon Blanc,13.2,1686
+366,Chardonnay,USA,Bordeaux,2005,12.83,85,Riesling,11.8,1039
+367,Syrah,France,Marlborough,2012,7.08,93,Cabernet Sauvignon,13.2,965
+368,Syrah,New Zealand,Marlborough,2019,31.08,84,Riesling,11.9,1300
+369,Sauvignon Blanc,France,Maipo Valley,2014,46.07,100,Riesling,14.4,1688
+370,Zinfandel,Argentina,Rioja,2002,12.98,88,Riesling,12.6,1059
+371,Zinfandel,New Zealand,Maipo Valley,2007,5.32,80,Chardonnay,12,1029
+372,Cabernet Sauvignon,Spain,Maipo Valley,2019,41.25,100,Syrah,14.2,1457
+373,Pinot Noir,Italy,Marlborough,2015,8.46,85,Sauvignon Blanc,12.4,1145
+374,Sauvignon Blanc,USA,Tuscany,2012,23.62,80,Pinot Noir,11.4,1259
+375,Syrah,Chile,Rioja,2017,35.55,91,Chardonnay,13.3,1399
+376,Syrah,Argentina,Marlborough,2009,15.66,93,Riesling,13.3,984
+377,Riesling,Spain,Rioja,2018,8.78,99,Zinfandel,13.9,1002
+378,Cabernet Sauvignon,USA,Barossa Valley,2016,39.65,80,Pinot Noir,12,1458
+379,Syrah,Italy,Rioja,2018,33.36,90,Chardonnay,12.8,1411
+380,Syrah,Australia,Napa Valley,2004,49.48,83,Zinfandel,12.1,1764
+381,Cabernet Sauvignon,Argentina,Tuscany,2020,20.49,83,Zinfandel,11.3,1324
+382,Syrah,France,Bordeaux,2008,7.78,98,Syrah,14.5,1057
+383,Pinot Noir,France,Napa Valley,2011,38.05,94,Pinot Noir,13.9,1496
+384,Merlot,Chile,Napa Valley,2020,28.48,84,Sauvignon Blanc,12.2,1348
+385,Sauvignon Blanc,USA,Maipo Valley,2000,14.59,91,Sauvignon Blanc,13.4,932
+386,Pinot Noir,USA,Maipo Valley,2000,40.18,81,Cabernet Sauvignon,11.8,1399
+387,Pinot Noir,USA,Napa Valley,2014,14.17,100,Chardonnay,14.6,960
+388,Merlot,Argentina,Marlborough,2001,16.73,80,Cabernet Sauvignon,11.5,1246
+389,Riesling,Italy,Rioja,2015,9.16,80,Merlot,11,1061
+390,Zinfandel,Australia,Rioja,2007,22.97,91,Sauvignon Blanc,13,1297
+391,Sauvignon Blanc,France,Mendoza,2012,23.85,93,Chardonnay,13.3,1131
+392,Riesling,Spain,Marlborough,2020,28.16,89,Syrah,13.3,1292
+393,Riesling,New Zealand,Tuscany,2000,36.9,80,Cabernet Sauvignon,11.2,1452
+394,Pinot Noir,Argentina,Marlborough,2015,45.77,84,Syrah,12.3,1698
+395,Syrah,Argentina,Marlborough,2006,11.2,93,Syrah,13,1001
+396,Riesling,Italy,Marlborough,2004,7.45,81,Riesling,11.9,848
+397,Merlot,France,Tuscany,2002,5.83,98,Riesling,14.5,951
+398,Zinfandel,Chile,Mendoza,2011,11.46,80,Syrah,11.3,1052
+399,Sauvignon Blanc,Australia,Tuscany,2015,34.61,96,Cabernet Sauvignon,12.9,1419
+400,Chardonnay,Italy,Barossa Valley,2018,37.74,96,Riesling,13.8,1585
